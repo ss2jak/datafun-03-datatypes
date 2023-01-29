@@ -1,4 +1,7 @@
 # datafun-03-datatypes
+Jakiel David
+1/29/2023
+Domain: Trinidad
 
 > Practice with Python data types, filter(), map(), and list comprehensions
 
