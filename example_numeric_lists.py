@@ -75,7 +75,7 @@ xtimes_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 yvalues_list = [2, 5, 8, 20, 21, 23, 24, 27, 30, 31, 31, 32]
 
 # Descriptive: Averages and measures of central tendency
-# Use statisttics module to get mean, median, mode
+# Use statistics module to get mean, median, mode
 # for a values list
 
 mean = statistics.mean(score_list)
@@ -239,6 +239,7 @@ sqrt_scores = map(lambda x: math.sqrt(x), new_scores)
 radius_list = [1, 2, 3, 4, 5]
 # Say "map r to pi r squared" and cast to a list
 area_list = [map(lambda r: math.pi * r * r, radius_list)]
+cube_root = math.pow(num, (1/3))
 
 
 # TRANFORMATIONS - Using List Comprehensions
@@ -282,3 +283,4 @@ print("Add print statements to the code to see what happens.")
 print("Explore enough to understand.")
 print("Then apply what you know to your own domain.")
 print()
+print(area_list)
