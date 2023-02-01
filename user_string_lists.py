@@ -91,6 +91,7 @@ print(asc)
 desc = sorted(list_words, reverse = True)
 print(desc)
 print()
+print("How many words are in the text?")
 len(text)
 
 
