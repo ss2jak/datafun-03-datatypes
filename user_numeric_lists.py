@@ -117,13 +117,13 @@ print (new_x)
 
 #List3
 
-min_pop = min(TTPopulation_list)
-max_pop = max(TTPopulation_list)
+MiN_pop = min(TTPopulation_list)
+mAx_pop = max(TTPopulation_list)
 
 population_count = len(TTPopulation_list)
 population_sum = sum(TTPopulation_list)
 
-avg = sum / len
+average=(TTPopulation_list)
 
 #Population over past 20 years in ascrending order
 
